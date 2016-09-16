@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MainMenuScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CityManager.cs" Line="327" Column="52" />
+      <File FileName="Assets\Scripts\AndroidConnection.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StoreData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MainMenuScript.cs" Line="137" Column="5" />
+      <File FileName="Assets\Scripts\StatsData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DisasterManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AutoDestroy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ChargeScript.cs" Line="30" Column="1" />
+      <File FileName="Assets\Scripts\DataStorage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LoseScript.cs" Line="27" Column="3" />
+      <File FileName="Assets\Scripts\DataLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Shaders\OutlineShader.shader" Line="1" Column="1" />
+      <File FileName="Assets\Shaders\OutlineShader2.shader" Line="106" Column="1" />
+      <File FileName="Assets\Scripts\TutorScript.cs" Line="137" Column="11" />
+      <File FileName="Assets\FadeInScript.cs" Line="23" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

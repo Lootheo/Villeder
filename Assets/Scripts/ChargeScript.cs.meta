@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: d71ef4a9b548fd948b75d90a6b0c5e9e
+timeCreated: 1467384593
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _sound: {fileID: 8300000, guid: 169dd853a18f5184eaff7d48532461b8, type: 3}
+  - Curar: {instanceID: 0}
+  - Comida: {instanceID: 0}
+  - Educacion: {instanceID: 0}
+  - parentTransform: {instanceID: 0}
+  - NotSelectedMaterial: {instanceID: 0}
+  - ResourcesMaterial: {instanceID: 0}
+  - SelectedMaterial: {instanceID: 0}
+  - ChargesText: {instanceID: 0}
+  - TimerImage: {instanceID: 0}
+  - _chargeBtn: {instanceID: 0}
+  - CM: {instanceID: 0}
+  - soundControl: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
